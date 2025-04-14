@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lunrenyi
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kurikomoe&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=lunrenyi&show_icons=true)
 
 <!--
 **lunrenyi/lunrenyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
