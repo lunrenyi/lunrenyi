@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @lunrenyi
+- 👋 Hi, I’m @lunrenyi. 知识与你共享！
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=lunrenyi&show_icons=true)
 
-知识与你共享！
 
 <!-- https://github.com/Platane/snk -->
 
