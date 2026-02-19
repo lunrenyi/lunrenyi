@@ -50,11 +50,11 @@
 
 ## 技术栈
 
-<code><img height="20" alt="bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" alt="shell" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2ffa1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" alt="yaml" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png"></code>
+<code><img height="20" alt="bash" src="https://cdn.simpleicons.org/icons8/bash/white"></code>
+<code><img height="20" alt="shell" src="https://cdn.simpleicons.org/icons8/bash/white"></code>
+<code><img height="20" alt="docker" src="https://cdn.simpleicons.org/icons8/docker/white"></code>
+<code><img height="20" alt="git" src="https://cdn.simpleicons.org/icons8/git/white"></code>
+<code><img height="20" alt="yaml" src="https://cdn.simpleicons.org/icons8/yaml/white"></code>
 
 ## 工作经历
 
