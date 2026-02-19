@@ -1,14 +1,30 @@
 # Hi, I'm @lunrenyi
 
-AI 工程化工程师 / 开发者工具工程师 | 中山
+> AI 工程化实践者
 
-- [x-cmd](https://x-cmd.com/) 开源命令行工具核心贡献者
+**AI 工程化工程师** / 开发者工具工程师 | 中山
+
+---
+
+## 关于我
+
+x-cmd 开源命令行工具核心贡献者，专注于 LLM/AI Agent 工程化实践。
 
 ## 技术栈
 
-Shell · Docker · Git · ClaudeCode
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-FF6C37?style=flat&logo=claude&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+## 关注领域
+
+LLM · AI Agent · Developer Tools
+
+---
 
 ## 联系我
 
-- Email: liaoxuanbin@x-cmd.com
 - GitHub: [@lunrenyi](https://github.com/lunrenyi)
+- Email: liaoxuanbin@x-cmd.com
