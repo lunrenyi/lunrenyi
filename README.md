@@ -10,6 +10,10 @@
 
 x-cmd 开源命令行工具核心贡献者，专注于 LLM/AI Agent 工程化实践。
 
+## 贡献统计
+
+![Stats](https://github-readme-stats.vercel.app/api?username=lunrenyi&show_icons=true&hide_rank=true&theme=transparent&hide_border=true&bg_color=0,000000,000000)
+
 ## 技术栈
 
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
