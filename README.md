@@ -6,9 +6,9 @@
 
 x-cmd 开源命令行工具核心贡献者，专注于 LLM/AI Agent 工程化实践。
 
-## 贡献活动
+<!-- ## 贡献活动
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lunrenyi&theme=transparent&hide_border=true&bg_color=0,000000,000000)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lunrenyi&theme=transparent&hide_border=true&bg_color=0,000000,000000) -->
 
 ## 技术栈
 
