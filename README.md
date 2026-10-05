@@ -24,6 +24,14 @@ LLM · AI Agent · Developer Tools
 
 ---
 
+## Featured projects
+
+- **[curseofwar-rs](https://github.com/lunrenyi/curseofwar-rs)** — My [Rust re-implementation of Curse of War](https://github.com/lunrenyi/curseofwar-rs), a terminal-based hex-grid real-time strategy game (TUI RTS) with Chinese UI by default. Built with `ratatui` + `crossterm`. Derived from the original [a-nikolaev/curseofwar](https://github.com/a-nikolaev/curseofwar) under GPLv3.
+- **[chess](https://github.com/lunrenyi/chess)** — 围棋 (Go) CLI — 黑石·白贝·榧木
+- **[ai-agent.sh](https://github.com/lunrenyi/ai-agent.sh)** — AI Agent 学习仓库
+
+---
+
 ## 联系我
 
 - GitHub: [@lunrenyi](https://github.com/lunrenyi)
