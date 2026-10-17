@@ -21,7 +21,7 @@ x-cmd 开源命令行工具核心贡献者，专注于 LLM/AI Agent 工程化实
 ![Codex](https://img.shields.io/badge/-Codex-74AA9C?style=flat&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-![Code by language — featured projects](https://x-cmd.com/draw?type=hbar&t=xcmd&title=Code%20I%20write%20%E2%80%94%20featured%20projects&labels=Rust,Shell,Other&values=315482,127310,53)
+![My original repos — size in KB](https://x-cmd.com/draw?type=hbar&unit=KB&title=My%20original%20repos%20%E2%80%94%20size%20(KB)&labels=ai-agent.sh,chess,curseofwar-rs,test_docker&values=651,370,225,38)
 
 ## 关注领域
 
@@ -36,10 +36,6 @@ LLM · AI Agent · Developer Tools
 - **[curseofwar-rs](https://github.com/lunrenyi/curseofwar-rs)** — My [Rust re-implementation of Curse of War](https://github.com/lunrenyi/curseofwar-rs), a terminal-based hex-grid real-time strategy game (TUI RTS) with Chinese UI by default. Built with `ratatui` + `crossterm`. Derived from the original [a-nikolaev/curseofwar](https://github.com/a-nikolaev/curseofwar) under GPLv3.
 - **[chess](https://github.com/lunrenyi/chess)** — 围棋 (Rust) CLI — 黑石·白贝·榧木
 - **[ai-agent.sh](https://github.com/lunrenyi/ai-agent.sh)** — AI Agent 学习仓库
-
-## 我 Fork 的 Top 仓库（按 size）
-
-![Top forked projects by size (KB)](https://x-cmd.com/draw?type=hbar&t=xcmd&title=Top%20forked%20projects%20%E2%80%94%20size%20(KB)&labels=v2rayNG,NetHack,pug,cship,h5i,wireman&values=264273,159791,125033,104139,73352,69935)
 
 ---
 
